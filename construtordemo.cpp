@@ -8,7 +8,7 @@ class CostDemo{
 		CostDemo(int a,int b)
 		{
 			cout << "Your Addition value is : " << a+b;
-			cout << "\nYour Substraction value is : " << a-b;
+			cout << "\nYour Substraction value is : " << a-b;                                                                                                                            
 			cout << "\nYour Multiplication value is : " << a*b;
 			cout << "\nYour Division value is : " << a/b;
 		}
